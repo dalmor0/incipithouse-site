@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://incipithouse.com.br/sitemap-index.xml
